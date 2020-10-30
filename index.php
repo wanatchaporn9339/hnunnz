@@ -6,7 +6,7 @@
     <title>Hello World</title>
 </head>
 <body>
-    <h1>แนะนำตัว<h1></h1>
+    <h1>แนะนำตัว</h1>
     <p>นางสาววนัชพร ธรรมรัตนตันติ ชื่อเล่น หนุน</p>
     <img src="bkk1.jpg">
     <img src="bkk2.jpg">
@@ -19,7 +19,7 @@
         อาจารย์คะ! สถานที่ไหนในโรงเรียนมีปลาเยอะที่สุดคะ?<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>
         
         ตอบ หอปลาชุมค่ะ55555555555555
-    <p>
+    </p>
 
 </body>
 </html>
