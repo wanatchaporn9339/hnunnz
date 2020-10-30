@@ -6,18 +6,19 @@
     <title>Hello World</title>
 </head>
 <body>
-    <h1>My First Heading<h1></h1>
-    <p>My First Paragraph</p>
-    <img src="cat.jpg">
+    <h1>แนะนำตัว<h1></h1>
+    <p>นางสาววนัชพร ธรรมรัตนตันติ ชื่อเล่น หนุน</p>
+    <img src="bkk1.jpg">
+    <img src="bkk2.jpg">
     <br>
-    <a href="http://www.it.kmitl.ac.th">This is a Link</a>
+    <a href="https://www.youtube.com/watch?v=RIFBoS04ETk">This is a Link</a>
 
-    <h2>The unordered list</h2>
-    <ul>
-        <li>Google</li>
-        <li>Yahoo</li>
-        <li>Amazon</li>
-        </ul>
+    <h2>เรื่องตลกที่ไม่ตลก?</h2>
+    <p>
+        อาจารย์คะ! สถานที่ไหนในโรงเรียนมีปลาเยอะที่สุดคะ?<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>.<br>
+        
+        ตอบ หอปลาชุมค่ะ55555555555555
+    <p>
 
 </body>
 </html>
