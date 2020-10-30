@@ -12,6 +12,7 @@
     <img src="bkk2.jpg">
     <br>
     <a href="https://www.youtube.com/watch?v=RIFBoS04ETk">This is a Link</a>
+    <a href="https://www.youtube.com/watch?v=T6F6hOKPCo4">This is a Link</a>
 
     <h2>เรื่องตลกที่ไม่ตลก?</h2>
     <p>
